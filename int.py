@@ -16,6 +16,7 @@ print(type(num))   #print the type of num
 #Smaller than : < 
 #Smaller than or equal to : <=
 #Greater than or equal to : >=
+#Object identity : is
 
 #typecasting
 num_1 = '1'
